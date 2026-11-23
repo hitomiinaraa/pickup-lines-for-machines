@@ -1,3 +1,4 @@
+// One pickup line, at most 200 characters.
 // Pickup Lines for Machines entry (Node 22, standard library only).
 // The line is the whole entry: one pickup line, one AI agent to another.
 // Written to /output/entry.txt, exactly the line and nothing else.
